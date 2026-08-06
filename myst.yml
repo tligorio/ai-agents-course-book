@@ -1,0 +1,28 @@
+version: 1
+
+project:
+  id: 7de93aad-077e-4778-a7ee-14cf867038aa
+  title: AI Agents — Code Tutorials
+  description: Coding tutorials for CSCI 395.32 at Hunter College, CUNY
+  authors:
+    - name: Tiziana Ligorio
+  github: tligorio/ai-agents-course-book
+  toc:
+    - file: index.md
+    - file: getting-started.md
+    - title: AI Workflow Patterns
+      children:
+        - file: tutorials/reflection/AI_Workflow_with_Reflection.ipynb
+        - file: tutorials/rag-cloud/AI_Workflow_with_RAG.ipynb
+        - file: tutorials/rag-local/AI_Local_Workflow_with_RAG.ipynb
+    - title: Agent Architectures
+      children:
+        - file: tutorials/react-huggingface/hugging_ReAct_agent_Qwen2_5.ipynb
+        - file: tutorials/react-langchain/LangChain_ReAct_agent_OpenRouter.ipynb
+        - file: tutorials/multiagent/Multiagent_LangGraph.ipynb
+
+site:
+  template: book-theme
+  options:
+    logo_text: AI Agents
+

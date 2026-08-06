@@ -1,0 +1,6 @@
+.venv/
+_build/
+.env
+.DS_Store
+.ipynb_checkpoints/
+

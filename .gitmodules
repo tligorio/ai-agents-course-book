@@ -1,0 +1,18 @@
+[submodule "tutorials/reflection"]
+	path = tutorials/reflection
+	url = https://github.com/tligorio/ai_workflow_reflection_tutorial.git
+[submodule "tutorials/rag-cloud"]
+	path = tutorials/rag-cloud
+	url = https://github.com/tligorio/ai_workflow_rag_tutorial.git
+[submodule "tutorials/rag-local"]
+	path = tutorials/rag-local
+	url = https://github.com/tligorio/ai_workflow_local_rag_tutorial.git
+[submodule "tutorials/react-huggingface"]
+	path = tutorials/react-huggingface
+	url = https://github.com/tligorio/hugging_react_agent_tutorial.git
+[submodule "tutorials/react-langchain"]
+	path = tutorials/react-langchain
+	url = https://github.com/tligorio/langchain_react_agent_tutorial.git
+[submodule "tutorials/multiagent"]
+	path = tutorials/multiagent
+	url = https://github.com/tligorio/multiagent_langgraph_tutorial.git
