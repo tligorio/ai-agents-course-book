@@ -6,7 +6,7 @@ Each tutorial remains in its own GitHub repository. This lets you clone only the
 
 For supported tutorials, use the **Open in Colab** badge in the notebook. Colab runs in your browser and does not require a local Python installation.
 
-You may still need API credentials. Store them using Colab Secrets when the tutorial directs you to do so. Never type credentials directly into a notebook that you might save or share.
+You may still need API credentials (instructions provided within the notebooks). Store them using Colab Secrets when the tutorial directs you to do so. Never type credentials directly into a notebook that you might save or share.
 
 ## Run a tutorial locally
 

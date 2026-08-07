@@ -10,16 +10,18 @@ project:
   toc:
     - file: index.md
     - file: getting-started.md
-    - title: AI Workflow Patterns
+    - title: Tutorials
       children:
-        - file: tutorials/reflection/AI_Workflow_with_Reflection.ipynb
-        - file: tutorials/rag-cloud/AI_Workflow_with_RAG.ipynb
-        - file: tutorials/rag-local/AI_Local_Workflow_with_RAG.ipynb
-    - title: Agent Architectures
-      children:
-        - file: tutorials/react-huggingface/hugging_ReAct_agent_Qwen2_5.ipynb
-        - file: tutorials/react-langchain/LangChain_ReAct_agent_OpenRouter.ipynb
-        - file: tutorials/multiagent/Multiagent_LangGraph.ipynb
+      - title: AI Workflow Patterns
+        children:
+          - file: tutorials/reflection/AI_Workflow_with_Reflection.ipynb
+          - file: tutorials/rag-cloud/AI_Workflow_with_RAG.ipynb
+          - file: tutorials/rag-local/AI_Local_Workflow_with_RAG.ipynb
+      - title: Agent Architectures
+        children:
+          - file: tutorials/react-huggingface/hugging_ReAct_agent_Qwen2_5.ipynb
+          - file: tutorials/react-langchain/LangChain_ReAct_agent_OpenRouter.ipynb
+          - file: tutorials/multiagent/Multiagent_LangGraph.ipynb
 
 site:
   template: book-theme
