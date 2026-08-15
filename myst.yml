@@ -14,7 +14,8 @@ project:
       children:
       - title: AI Workflow Patterns
         children:
-          - file: tutorials/reflection/AI_Workflow_with_Reflection.ipynb
+          - file: tutorials/reflection/AI_Workflow1_with_Reflection.ipynb
+          - file: tutorials/reflection/AI_Workflow2_with_Reflection_Structured_Validation.ipynb
           - file: tutorials/rag-cloud/AI_Workflow_with_RAG.ipynb
           - file: tutorials/rag-local/AI_Local_Workflow_with_RAG.ipynb
       - title: Agent Architectures
