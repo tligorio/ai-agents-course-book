@@ -23,7 +23,7 @@ Then create the environment and install dependencies exactly as described in tha
 
 | Tutorial | Local setup | Cloud option |
 | --- | --- | --- |
-| Reflection with OpenRouter | [Repository](https://github.com/tligorio/ai_workflow_reflection_tutorial) | [Open in Colab](https://colab.research.google.com/github/tligorio/ai_workflow_reflection_tutorial/blob/main/AI_Workflow_with_Reflection.ipynb) |
+| Reflection with OpenRouter | [Repository](https://github.com/tligorio/ai_workflow_reflection_tutorial) | [Part 1](https://colab.research.google.com/github/tligorio/ai_workflow_reflection_tutorial/blob/main/AI_Workflow1_with_Reflection.ipynb) · [Part 2](https://colab.research.google.com/github/tligorio/ai_workflow_reflection_tutorial/blob/main/AI_Workflow2_with_Reflection_Structured_Validation.ipynb) |
 | RAG with OpenRouter and Supabase | [Repository](https://github.com/tligorio/ai_workflow_rag_tutorial) | [Open in Colab](https://colab.research.google.com/github/tligorio/ai_workflow_rag_tutorial/blob/main/AI_Workflow_with_RAG.ipynb) |
 | Local RAG with Ollama and PostgreSQL | [Repository](https://github.com/tligorio/ai_workflow_local_rag_tutorial) | Local only |
 | ReAct with Hugging Face | [Repository](https://github.com/tligorio/hugging_react_agent_tutorial) | [Open in Colab](https://colab.research.google.com/github/tligorio/hugging_react_agent_tutorial/blob/main/hugging_ReAct_agent_Qwen2_5.ipynb) |
