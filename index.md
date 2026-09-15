@@ -1,6 +1,6 @@
 # AI Agents — Code Tutorials
 
-These tutorials accompany **AI Agents (CSCI 395.32)** at Hunter College of the City University of New York.
+These tutorials accompany [**AI Agents (CSCI 395.32)**](https://open-ground-a37.notion.site/AI-Agents-Prof-Tiziana-Ligorio-2e68c916ae49803ea90eda702de24474) at Hunter College of the City University of New York.
 
 The collection progresses from focused AI workflow patterns to tool-using agents and multi-agent systems. You can read every tutorial on this website, run supported tutorials in Google Colab, or clone an individual tutorial repository for local use.
 
